@@ -111,7 +111,7 @@ class Topic2Layouts extends StatelessWidget {
               width: double.infinity,
 
               decoration: BoxDecoration(
-                color: Colors.deepPurple,
+                color: Colors.purple,
                 borderRadius: BorderRadius.circular(20),
               ),
 
